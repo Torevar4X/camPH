@@ -35,5 +35,6 @@ echo "Removing other temporary files..."
 rm -f LocationLog.log
 rm -f LocationError.log
 rm -f Log.log
+rm -f temp_input.txt
 
 echo "Cleanup completed successfully!" 

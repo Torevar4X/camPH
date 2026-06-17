@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.log
+*.png
+ip.txt
+location_*.txt
+current_location.txt
+saved_locations/
+temp_*
+ngrok*
+cloudflared*
